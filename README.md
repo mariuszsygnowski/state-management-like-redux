@@ -7,4 +7,4 @@ Full explanation is in each component.
 ## Technical notes
 
 - Run `npm install` after cloning to download all dependencies
-- Use `npm run dev -- --watch` to build React
+- Use `npm run dev -- --watch` to build React.
