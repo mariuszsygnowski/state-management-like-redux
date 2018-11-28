@@ -1,0 +1,18 @@
+@import "reset";
+@import "container.scss";
+@import "header.scss";
+@import "inputs";
+@import "intro";
+@import "results";
+@import "singleResultBox";
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+.app {
+  font-family: "Varela Round", sans-serif;
+  margin: 0 auto;
+  width: auto;
+  background-color: white;
+  display: grid;
+  grid-gap: 5px;
+  padding: 10px;
+}
